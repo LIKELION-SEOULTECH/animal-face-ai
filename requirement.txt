@@ -1,0 +1,18 @@
+# --- 모델 학습 및 변환 관련 ---
+torch>=2.0.0
+torchvision
+timm
+matplotlib
+onnx
+onnxscript
+onnxruntime
+
+# --- 데이터 처리 및 이미지 로드 ---
+numpy
+opencv-python-headless
+pillow
+
+# --- API 서버 배포 ---
+fastapi
+uvicorn
+python-multipart

@@ -1,0 +1,17 @@
+# 데이터 및 학습 결과물 제외
+data/
+fastvit_transfer/
+*.pth
+*.png
+*.jpg
+*.jpeg
+
+# 파이썬 캐시 및 가상환경 제외
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+
+# 기타 불필요한 파일
+.vscode/

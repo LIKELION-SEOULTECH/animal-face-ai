@@ -1,0 +1,6 @@
+code/fastvit/fastvit_transfer/solve_overfitting/
+data/
+*.h5
+*.pth
+*.data-00000-of-00001
+variables/
